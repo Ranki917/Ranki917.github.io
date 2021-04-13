@@ -1,14 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>pazzle</title>
- <script src="script.js">
+ <title>中文谜题闯关</title>
+ <script src="java.js">
  </script>
+ <link rel="stylesheet"href="css.css">
 </head>
 <body>
-  <h1>Click the button to have some fun.</h1>
-  <p id="demo">Click the button to change the font size and font color.</p>
-   <button onclick="sayHellow()">Click me</button>
-     <button onclick ="showTopic()">press me </button>
+  <h1 id="title">谜底为三字词语，请根据三个字谜分别猜出三个其中的三个字</h1>
+  <h1 id="question1">江水流</h1>
+   <p id="answer1">( ? )</p>
+    <button onclick="one()">点击填写答案</button>
+
+  <h1 id="question2">真的没有头</h1>
+   <p id="answer2">( ? )</p>
+      <button onclick="two()">点击填写答案</button>
+
+  <h1 id="question3">合去一口，家家都有</h1>
+   <p id="answer3">( ? )</p>
+      <button onclick="three()">点击填写答案</button><br>
+
+
+
+  <button id="final0"onclick="final()">回答完毕，确认提交</button>
 </body>
 </html>
