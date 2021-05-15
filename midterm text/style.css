@@ -1,0 +1,45 @@
+
+/*---固定背景图--*/
+figure{
+  position :relative;
+  width: 100%;
+  height: 60%;
+  margin:0;
+}
+
+#carouselExampleCaptions{
+  margin-top: 4rem;
+}
+.btn-primary{
+  background-color: #767980;
+  border: 1px solid #767980;
+}
+.btn-primary:hover{
+  background-color: #4c4e53;
+  border: 1px solid #4c4e53;
+}
+#fixed{
+  background-image: url('img/flower.jpg');
+  height: 600px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+#threeRows{
+  padding: 5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.paragraph{
+  padding-left:2em;
+  padding-right:2em;
+}
+
+#third{
+  padding-left:2em;
+  padding-right:2em;
+  padding-bottom: 5em;
+}
