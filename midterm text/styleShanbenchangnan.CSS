@@ -1,0 +1,18 @@
+.picture{
+  margin: 10rem;
+  position: relative;
+
+}
+.wordOver{
+  position: relative;
+
+}
+.imgUnder{
+  width:500rem;
+}
+.word{
+  position: absolute;;
+  color: white;
+  top: 0;
+  left: 0;
+}

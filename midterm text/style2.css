@@ -1,7 +1,9 @@
+/*--自我介绍卡片顶部空格--*/
 .firstLine{
   margin-top: 5rem;
   margin-bottom: 5rem;
 }
+/*---button颜色--*/
 .btn-primary{
   background-color: #767980;
   border: 1px solid #767980;
@@ -15,4 +17,7 @@ body{
 }
 .card{
   margin-bottom: 2rem;
+}
+.picture{
+  margin: 1rem;
 }
