@@ -12,12 +12,33 @@
   background-color: #4c4e53;
   border: 1px solid #4c4e53;
 }
-body{
- 
+.card{
+ margin:1rem;
 }
 .card{
   margin-bottom: 2rem;
 }
 .picture{
   margin: 1rem;
+}
+@font-face {
+  font-family:"mingchao" ;
+  src: url('family/FZFWZhuZGDSMCJW.TTf');
+  font-size: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family:"ninan" ;
+  src: url('family/FZNiNSJW.TTf');
+  font-size: normal;
+  font-weight:lighter;
+}
+
+.font1{
+  font-family: "mingchao";
+  font-size: 30px;
+}
+.font2{
+  font-family: "ninan";
+  font-size: 17px;
 }

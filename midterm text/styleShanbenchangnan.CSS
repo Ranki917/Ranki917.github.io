@@ -7,12 +7,34 @@
   position: relative;
 
 }
-.imgUnder{
-  width:500rem;
-}
+
 .word{
   position: absolute;;
-  color: white;
-  top: 0;
-  left: 0;
+  color: #dcdcdc;
+  top: 35rem;
+  left: 30rem;
+  font-family:"ninan";
+  font-size: 20px;
 }
+.card{
+  margin:2rem;
+}
+@font-face {
+  font-family:"mingchao" ;
+  src: url('family/FZFWZhuZGDSMCJW.TTf');
+  font-size: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family:"ninan" ;
+  src: url('family/FZNiNSJW.TTf');
+  font-size: normal;
+  font-weight:lighter;
+}
+.font1{
+  font-family: "mingchao";
+  font-size: 30px;
+}
+.font2{
+  font-family: "ninan";
+  font-size: 17px;
