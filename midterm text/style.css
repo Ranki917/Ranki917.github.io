@@ -2,9 +2,15 @@
 /*---固定背景图--*/
 
 .wide{
-  margin: 8em;
-  margin-bottom: 0em;
+  margin: 10em;
+  margin-bottom: 10em;
   margin-top: 0em;
+}
+
+.wide2{
+  margin: 10em;
+  margin-bottom: 0em;
+  margin-top: 10em;
 }
 
 figure{
