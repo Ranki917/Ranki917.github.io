@@ -16,6 +16,10 @@
 padding: 5em;
 }
 
+.wide4{
+border: 10em;
+}
+
 figure{
   position :relative;
   width: 100%;
