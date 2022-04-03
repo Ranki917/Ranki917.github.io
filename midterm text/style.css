@@ -1,0 +1,83 @@
+
+
+
+.wide{
+  margin: 10em;
+  margin-bottom: 10em;
+  margin-top: 0em;
+}
+
+.wide2{
+  margin: 10em;
+  margin-bottom: 0em;
+  margin-top: 10em;
+}
+
+/*---固定背景图--*/
+figure{
+  position :relative;
+  width: 100%;
+  height: 60%;
+  margin:0;
+}
+@font-face {
+  font-family:"mingchao" ;
+  src: url('/family/FZFWZhuZGDSMCJW.TTF');
+  font-size: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family:"ninan" ;
+  src: url('/family/FZNiNSJW.TTF');
+  font-size: normal;
+  font-weight:lighter;
+}
+
+.font1{
+  font-family: "mingchao"!important;
+  font-size: 30px;
+}
+.font2{
+  font-family: "ninan"!important;
+  font-size: 17px;
+}
+/*---轮播图--*/
+#carouselExampleCaptions{
+
+}
+/*---button颜色--*/
+.btn-primary{
+  background-color: #767980;
+  border: 1px solid #767980;
+}
+.btn-primary:hover{
+  background-color: #4c4e53;
+  border: 1px solid #4c4e53;
+}
+/*--固定背景图--*/
+#fixed{
+  background-image: url('img/flower.jpg');
+  height: 600px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+/*--三个栅格--*/
+#threeRows{
+  padding: 5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+/*--两个栅格的文字--*/
+.paragraph{
+  padding-left:2em;
+  padding-right:2em;
+}
+/*--第三个两个栅格的文字--*/
+#third{
+  padding-left:2em;
+  padding-right:2em;
+  padding-bottom: 5em;
+}
