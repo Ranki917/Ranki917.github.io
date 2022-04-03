@@ -34,11 +34,11 @@ figure{
 }
 
 .font1{
-  font-family: "mingchao";
+  font-family: "mingchao"!important;
   font-size: 30px;
 }
 .font2{
-  font-family: "ninan";
+  font-family: "ninan"!important;
   font-size: 17px;
 }
 /*---轮播图--*/
