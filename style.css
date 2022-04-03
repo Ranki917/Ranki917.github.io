@@ -22,13 +22,13 @@ figure{
 }
 @font-face {
   font-family:"mingchao" ;
-  src: url('family/FZFWZhuZGDSMCJW.TTf');
+  src: url('/family/FZFWZhuZGDSMCJW.TTF');
   font-size: normal;
   font-weight: normal;
 }
 @font-face {
   font-family:"ninan" ;
-  src: url('family/FZNiNSJW.TTf');
+  src: url('/family/FZNiNSJW.TTF');
   font-size: normal;
   font-weight:lighter;
 }
