@@ -3,15 +3,28 @@
 
 .wide{
   margin: 10em;
-  margin-bottom: 10em;
   margin-top: 0em;
 }
-
+.wide1{
+  margin: 5em;
+}
 .wide2{
   margin: 10em;
   margin-bottom: 0em;
-  margin-top: 10em;
 }
+
+.wide3{
+  margin-left: 10em;
+}
+.wide4{
+  margin-left: 10em;
+    margin-right: 10em;
+}
+.wide5{
+  margin-top: 2em;
+
+}
+
 
 /*---固定背景图--*/
 figure{
