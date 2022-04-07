@@ -19,16 +19,31 @@
 .wide4{
   margin-left: 10em;
     margin-right: 10em;
+
 }
 .wide5{
   margin-top: 2em;
 
 }
+
 .wide6{
   margin-left: 3em;
 
 }
+.wide7{
+  margin-left: 5em;
+    margin-right: 5em;
 
+}
+.wide8{
+  margin-bottom: 1em;
+  margin-top: 1em;
+
+}
+.wide9{
+    margin-left:25em;
+
+}
 
 /*---固定背景图--*/
 figure{
