@@ -45,8 +45,11 @@
 
 }
 
-.color{
-
+.wide10{
+margin-left: 35em;
+margin-right: 35em;
+margin-top: 5em;
+margin-bottom: 0em;
 }
 
 /*---固定背景图--*/
