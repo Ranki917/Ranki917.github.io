@@ -63,18 +63,20 @@ figure{
   font-weight: normal;
 }
 @font-face {
-  font-family:"ninan" ;
-  src: url('family/FZNiNSJW.TTF');
+  font-family:"lanting" ;
+  src: url('family/方正兰亭细黑.TTF');
   font-size: normal;
   font-weight:lighter;
+
 }
 .font1{
   font-family: "mingchao"!important;
   font-size: 28px;
 }
 .font2{
-  font-family: "ninan"!important;
-  font-size: 16px;
+  font-family: "lanting"!important;
+  font-size: 15px;
+    line-height: 2;
 }
 
 /*---轮播图--*/
