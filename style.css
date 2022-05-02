@@ -81,6 +81,12 @@ figure{
   font-size: 14px;
     line-height: 2;
 }
+.font3{
+  font-family: "mingchao"!important;
+  font-size: 22px;
+  line-height: 1.5;
+  letter-spacing: -1px;
+}
 
 /*---轮播图--*/
 #carouselExampleCaptions{
@@ -92,8 +98,8 @@ figure{
   border: 1px solid #767980;
 }
 .btn-primary:hover{
-  background-color: #4c4e53;
-  border: 1px solid #4c4e53;
+  background-color: #386c00;
+  border: 1px solid #386c00;
 }
 /*--固定背景图--*/
 #fixed{
